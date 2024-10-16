@@ -27,8 +27,10 @@ footer {
   cursor: pointer;
 }
 
-.f-inc{
-    text-align: center;
-    font-size: 0.4rem;
+.f-inc {
+  text-align: center;
+  font-size: 0.5rem;
+  color: rgba(255, 255, 255, 0.222);
 }
+
 
