@@ -3,7 +3,7 @@
 
 @font-face {
   font-family: bebasNeue;
-  src: url(/styles/fonts/BebasNeue-Regular.ttf);
+  src: url(./fonts/BebasNeue-Regular.ttf);
 }
 
 body {
