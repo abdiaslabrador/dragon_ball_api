@@ -39,9 +39,11 @@ main {
   flex-direction: row;
   justify-content: center;
 }
+
 .email-container .f-form {
   flex-grow: 1;
 }
+
 .email-container a {
   flex-grow: 0;
 }
