@@ -7,11 +7,7 @@ async function fetchApiJson() {
 }
 
 fetchApiJson().then(planets =>{
-    let image;
-    let name;
-    let isDestroyed;
-    let description;
-
+    let image, name, isDestroyed, description;
 
     for (let i = 0; i < planets.items.length; i++) {
         image = planets.items[i]["image"]; 

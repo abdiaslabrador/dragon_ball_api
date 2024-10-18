@@ -7,13 +7,7 @@ async function fetchApiJson() {
 }
 
 fetchApiJson().then(characters =>{
-    let image;
-    let name;
-    let race;
-    let gender;
-    let ki;
-    let maxKi;
-    let affiliation;
+    let image, name, race, gender, ki, maxKi, affiliation;
 
     for (let i = 0; i < characters.items.length; i++) {
         image = characters.items[i]["image"]; 
