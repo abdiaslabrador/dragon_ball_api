@@ -7,6 +7,10 @@ header {
   opacity: 0.8;
 }
 
+.back-img {
+  background-image: url(../../public/characters-background.jpeg);
+}
+
 .char_margin-container {
   margin: 0 auto;
   width: min-content;
@@ -92,5 +96,8 @@ p {
 @media (max-width: 769px) {
   .char_flex-container {
     grid-template-columns: min-content;
+  }
+  .back-img-main-text {
+    font-size: 3rem;
   }
 }
