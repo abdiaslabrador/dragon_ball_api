@@ -1,9 +1,10 @@
-body {
-  grid-template-rows: 8vh 1fr auto;
+main {
+  min-height: 100vh;
+  background: linear-gradient(black, #111010, #1f1f1f, #111010, black);
 }
 
-main {
-  background: linear-gradient(black, #111010, #1f1f1f, #111010, black);
+header {
+  opacity: 0.8;
 }
 
 .pla_margin-container {
