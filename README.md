@@ -11,7 +11,7 @@ The project consists of creating a comics website interested in showing the char
 - Postman
 
 # SOME TIPS
-Do "git clone https://github.com/abdiaslabrador/dragon_ball_api.git" enter in the "dragon_ball_api" folder and run de index.html right away!
+Do "git clone https://github.com/abdiaslabrador/dragon_ball_api.git" enter in the "dragon_ball_api" folder and run the index.html right away!
 
 # CHECK IT OUT!
 Check out the page! 
