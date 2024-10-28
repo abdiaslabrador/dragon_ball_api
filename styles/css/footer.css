@@ -36,11 +36,11 @@ footer {
 
 @media (max-width: 768px) {
   .f-policy-container {
-    align-items: center;
     flex-direction: column;
   }
   .bottom-links {
+    text-align: center;
     margin-right: 0;
-    width: 100%;
+    flex-basis: auto;
   }
 }
