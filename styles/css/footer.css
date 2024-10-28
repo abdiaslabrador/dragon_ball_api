@@ -34,7 +34,7 @@ footer {
   color: rgba(255, 255, 255, 0.222);
 }
 
-@media (max-width: 426px) {
+@media (max-width: 767px) {
   .f-policy-container {
     align-items: flex-start;
     flex-direction: column;
