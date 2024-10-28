@@ -41,6 +41,6 @@ footer {
   .bottom-links {
     text-align: center;
     margin-right: 0;
-    flex-basis: auto;
+    width: 100%;
   }
 }
